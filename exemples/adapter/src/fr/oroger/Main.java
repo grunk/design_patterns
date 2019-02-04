@@ -13,5 +13,8 @@ public class Main {
 
 	    chargeurTesla.plug(adapter);
 	    chargeurTesla.plug(modelX);
+
+
+
     }
 }

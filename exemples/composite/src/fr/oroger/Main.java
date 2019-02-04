@@ -23,6 +23,6 @@ public class Main {
         photos.add(_2017);
         photos.add(d);
 
-        dec.dblClick();
+        photos.dblClick();
     }
 }
