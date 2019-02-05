@@ -10,7 +10,7 @@ public class Main {
         ProgressBar prg = new ProgressBar(mediator);
         SearchLabel lbl = new SearchLabel(mediator);
 
-        btn.click();
+        //btn.click();
 
         lbl.click();
     }
